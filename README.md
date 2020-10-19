@@ -1,5 +1,7 @@
 # U-Words
 
+![csvlint](https://github.com/u-motion/u-words/workflows/csvlint/badge.svg)
+
 U-Words はみんなで創る畜産・酪農用語集です。
 
 -----
