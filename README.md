@@ -46,4 +46,4 @@ U-Words はみんなで創る畜産・酪農用語集です。
 
 ## 貢献者
 
-[@mikan](https://github.com/mikan)
+[@mikan](https://github.com/mikan) [cobot00](https://github.com/cobot00)
