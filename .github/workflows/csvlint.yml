@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 jobs:
   build:
-    name: Build
+    name: CSV構文チェック
     runs-on: ubuntu-latest
     steps:
     - name: Set up Go 1.x
